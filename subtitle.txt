@@ -1,0 +1,69 @@
+Welcome to this video, where you will be introduced
+to the basics of apps. After watching this video, you will be able to
+define a mobile app, outline the evolution of
+mobile app development, describe common characteristics
+of a mobile app, and identify the role
+of a mobile developer. In this digital world, applications or apps are an integral part
+of our daily life. We use apps to shop, play games, order food, book travel tickets, health and fitness,
+and many more. But what exactly is an app? An app is a software with a specific purpose that you can install and run on a computer, smartphone, or other
+electronic devices. For example, Microsoft Office is an app that you can
+install on your computer. Wondering what mobile apps are? Mobile apps are a subset of apps that run on mobile devices. They can run independently without any need for
+the device to be connected to a network or be enabled by the
+connectivity to the internet. Some common examples
+of mobile apps include calculator,
+flashlight, and maps. Let's briefly review
+the evolution of mobile app development. The first smart phone, Simon, was launched
+by IBM in 1994, with apps like Calculator
+app, Clock app, Games apps, and other basic
+utility applications. Blackberry then became
+a market leader, offering many more
+preloaded applications. Apple iPhone was a game changer. Launched in 2007,
+and within a year, it had the next version
+with over 200 apps. In 2008, Google released
+Android with basic Google apps. IPad was released with
+11,000 apps in 2010. There are more than
+four million apps catering to a
+multitude of devices. Next, let's review some
+common characteristics of mobile apps that
+make them easy to use. Mobile apps work
+on mobile devices, which include smartphones, such as iPhones and Android phones. Tablets, such as iPad, Samsung Tab, Amazon Fire, and Microsoft Surface Pro. Wearable devices,
+such as Apple Watch, Samsung Watch, Garmin vivoactive, and other smartwatches. Automobile infotainment
+devices, such as Apple CarPlay, Android Auto, Ford Sync, and Tesla infotainment,
+and e-readers like Kindle. The list of mobile devices continues to grow with
+technological advancements. Every mobile app has
+a user interface, which includes buttons,
+menus, icons, and so on. In addition, users can
+personalize the app. For example, the app
+may provide options to set up the preferred language
+and the color scheme. Most apps provide a help
+functionality that makes it easy for users to look for
+specific items in the app. Several apps provide
+notification features that provide real-time
+updates about any event or updates about fixes or newer versions of the
+app and other activities. In addition, most apps
+are built with features, keeping in mind inclusive
+user experience. Some examples for
+such features include embedded screen readers and voice-activated app navigation. While an app might have
+various characteristics, it might work only on
+one type of device, such as an Android smartphone. Such an app is referred
+to as a native app. However, there are other apps that might work across
+various device types. Such apps are called
+cross-platform apps. Even if the view
+of the mobile apps may appear identical
+across devices, they can be entirely different
+software applications. This is where the
+mobile app developer comes in with
+specialized skills, including specific
+languages, frameworks, and tools that are used
+to develop mobile apps. The mobile app developer
+is responsible for writing the required code to add the required
+interactions in the app. In this video, you learned that a mobile app
+is a software with a specific purpose that you can install and run on
+mobile devices. Mobile apps work on mobile devices, including
+smartphones, tablets, wearable devices, automobile
+infotainment devices, and e-readers like Kindle. Users can personalize the app. Apps can provide different
+functionality like help, notification, and
+inclusive user experience. Apps may be designed to work on one or multiple device types, and a mobile app developer is a software developer
+with specialized skills, including specific
+languages, frameworks, and tools used in
+mobile app development.
